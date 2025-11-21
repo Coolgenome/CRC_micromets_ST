@@ -2,7 +2,7 @@
 Colorectal cancer (CRC) metastases frequently recur due to minimal residual disease and persisting micrometastases after therapy. Here, we performed spatial multi-omics profiling using Visium spatial transcriptomics (ST), Visium HD ST, laser-capture microdissection with whole-genome sequencing, and PhenoCycler-Fusion imaging, integrating 341,328 Visium spots and approximately 3.8 million Visium HD bins from 49 tumors across 19 patients with paired primary CRC, liver (CLiM), and lung (CLuM) metastases. Phylogenetic reconstruction based on copy number variations revealed markedly distinct evolutionary trajectories, including early clonal divergence and stem-like phenotypes in liver micrometastases (CLiMi). Spatial profiling uncovered stromal interactions in both CLiM and CLuM, with macrophages enriched in CLiM and lymphocytes predominating in CLuM. Micrometastases exhibited pronounced immunosuppressive features and increased T cell exhaustion. We identified a novel, CLiMi-specific six-gene signature predictive of micrometastasis and survival across three independent cohorts. These findings provide critical insights into CRC metastases, informing tumor evolution and potential therapeutic strategies.
 ![graphical abstracts](https://github.com/user-attachments/assets/873bb98c-b3cb-41f9-be02-2dec8ea60379)
 
-## Software and Data Availability
+## Software Availability
 Software Versions
 
 The following software and tools were used in this study:
