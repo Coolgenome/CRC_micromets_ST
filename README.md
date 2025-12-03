@@ -30,7 +30,7 @@ These annotations include region labels, pathological classifications, and assoc
 All additional data used for figure generation, including processed matrices and intermediate outputs, have been deposited on Zenodo.
 
 Zenodo repository:
-👉 [https://zenodo.org/records/17795290]
+👉 [https://zenodo.org/records/17796737]
 
 
 ## Notes
